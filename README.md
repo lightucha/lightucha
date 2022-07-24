@@ -1,10 +1,18 @@
-<div align=center>
+<div align=left>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flightucha&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
+
 ### Hi there 👋
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center"> Techs that I've used at least once </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
+
 
 <!--
 **lightucha/lightucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3 align="center"> 🌱 Me 🌱 </h3>
 
 <div align=center>
   
