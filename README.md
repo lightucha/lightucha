@@ -11,8 +11,8 @@
   
 </div>
 
-### Decision Scientist
-- Decsion Scientist in Transportation/Logistics industry
+### Data Scientist
+- (Be) Decsion Scientist in Transportation/Logistics industry
 
 ### Interest
 - Decision-making science
