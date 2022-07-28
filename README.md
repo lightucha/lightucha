@@ -12,7 +12,7 @@
 </div>
 
 ### Data Scientist
-- (Be) Decsion Scientist in Transportation/Logistics industry
+- (wannabe) Decsion Scientist in Transportation/Logistics industry
 
 ### Interest
 - Decision-making science
